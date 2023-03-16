@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\gremx\source\repos\Project6\Project6\Source.cpp(109,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gremx\source\repos\Project6\Project6\Source.cpp(109,52): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\gremx\source\repos\Project6\Project6\Source.cpp(133,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gremx\source\repos\Project6\Project6\Source.cpp(133,52): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Project6.vcxproj -> C:\Users\gremx\source\repos\Project6\x64\Debug\Project6.exe
